@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2? family= Manrope:wght@200 & display=swap');
+
+*{
+  font-family: 'Manrope', sans-serif;
+}
+
+*{
+	background-color: #000;
+	color: #fff;
+	text-decoration: none;
+}
+
+#about{
+	font-size: 12px;
+	padding-top: 2%;
+	padding-left: 10%;
+	word-spacing: 10px;
+
+ }
+
+ #about2{
+font-size: 12px;
+text-align: right;
+margin-top: -23px;
+word-spacing: 10px;
+margin-right: 60px;
+ }
+
+#about21{
+margin-right: -50px;
+margin-top: -25px;
+}
+
+#choice{
+	word-spacing: 15px;
+	margin-left: 6%;
+	margin-top: 8px;
+}
+
+#choice2{
+	text-align: right;
+	word-spacing: 10px;
+	margin-top: -35px;
+	margin-right: 15px;
+}
+
+
+#yourPC, #nothing, #start{
+	text-align: center;
+}
+
+#yourPC{
+	border-bottom: 3px solid red;
+  padding-bottom: 10px;
+  margin-left: 650px;
+margin-right: 650px;
+font-size: 25px;
+font-weight: bold;
+margin-top: 40px;	
+}
+
+#nothing{
+margin-top: 20px;
+font-size: 13px;
+}
+
+#start{
+margin-top: 5px;
+font-weight: bold;
+font-size: 25px;
+}
+
+.cards{
+	width: 300px;
+  height: 470px;
+  margin: 50px;
+  outline-color: #610000;
+  outline-style: solid;
+  outline-width: 2px;
+  text-align: center;
+  background-color: #0c1117;
+}
+
+.detail{
+	margin-top: 20px;
+	width: 140px;
+  height: 30px;
+  margin: 20px;
+  outline-color: red;
+  outline-style: solid;
+  outline-width: 2px;
+  text-align: center;
+  padding-top: 10px;
+  font-weight: bold;
+  margin-left: 80px;
+  background-color: #0c1117;
+}
+
+.toc1{
+	font-weight: bold;
+	font-size: 20px;
+	background-color: #0c1117;
+	margin-top: 10px;
+}
+
+.toc2{
+	font-size: 12px;
+	background-color: #0c1117;
+}
+
+#card1{
+	margin-left: 150px;
+}
+#card2{
+		margin-left: 550px;
+		margin-top: -520px;
+}
+#card3{
+		margin-left: 950px;
+		margin-top: -520px;
+}
+
+.cards:hover {
+    border-color: red;
+   }
